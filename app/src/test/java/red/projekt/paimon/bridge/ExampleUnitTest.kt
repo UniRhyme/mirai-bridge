@@ -1,4 +1,4 @@
-package com.example.maPluginTemplate
+package red.projekt.paimon.bridge
 
 import org.junit.Test
 

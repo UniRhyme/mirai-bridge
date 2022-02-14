@@ -1,4 +1,4 @@
-package com.example.maPluginTemplate
+package red.projekt.paimon.bridge
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
